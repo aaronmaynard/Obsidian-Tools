@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "obsidiantools:obsidianpickaxe"
+        },
+        "title": {
+            "translate": "advancements.obsidiantools.title"
+        },
+        "description": {
+            "translate": "advancements.obsidiantools.descr"
+        },
+		"frame": "task"
+    },
+"parent": "minecraft:story/form_obsidian",
+    "criteria": {
+        "obsidiantools": {
+            "trigger": "obsidiantools"
+        }
+    }
+}
