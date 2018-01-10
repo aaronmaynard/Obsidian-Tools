@@ -2,8 +2,7 @@
 # Obsidian-Tools ![Pickaxe](http://wiki.aidancbrady.com/w/images/aidancbrady/3/37/Obsidian_Tools.gif)
 An extension to the Minecraft tool crafting system.
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
-[![GitHub issues](https://img.shields.io/github/issues/aaronmaynard/Obsidian-Tools.svg)]()
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/aaronmaynard/Obsidian-Tools/)[![GitHub issues](https://img.shields.io/github/issues/aaronmaynard/Obsidian-Tools.svg)]()
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/aaronmaynard/Obsidian-Tools.svg)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/aaronmaynard/Obsidian-Tools.svg)]()
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/aaronmaynard/Obsidian-Tools.svg)]()
